@@ -40,4 +40,5 @@ by [John Papa](http://twitter.com/john_papa)
 
 ### Debugging Resources
 
-- [Debugging Vue in VS Code](https://code.visualstudio.com/docs/nodejs/vuejs-tutorial?WT.mc_id=javascript-0000-jopapa)
+- [Using Vue in VS Code](https://code.visualstudio.com/docs/nodejs/vuejs-tutorial?WT.mc_id=javascript-0000-jopapa)
+- [Debugging Vue in VS Code](https://github.com/microsoft/vscode-recipes/tree/master/vuejs-cli?WT.mc_id=javascript-0000-jopapa)
